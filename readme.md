@@ -9,3 +9,4 @@ Which is the correct format for a Check IP Service within pfSense's Dynamic DNS 
 
 [Check it out!](https://as204291.net/checkip)
 
+
